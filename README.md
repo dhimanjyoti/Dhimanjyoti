@@ -1,6 +1,6 @@
-### Hi there 👋
 
-Hi 👋 I'm Dhiman 
+
+<center> Hi 👋 I'm Dhiman 
 <hr>
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mailto:dhimanjyoti62@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm north-eastern with american behaviour.
--->
+--> </center>
