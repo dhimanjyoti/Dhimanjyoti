@@ -6,7 +6,7 @@
 - 🌱 Trying to be perfect @Frontend.
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Frontend.
-- 📫 How to reach me:dhimanjyoti62@gmail.com
+- 📫 How to reach me: dhimanjyoti62@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a north-eastern with American behavior.
 
