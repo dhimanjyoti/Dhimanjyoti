@@ -10,7 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a north-eastern with American behavior.
 
-- 🔭 I’m currently working on this page. 
 
 
 
