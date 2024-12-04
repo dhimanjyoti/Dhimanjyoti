@@ -3,10 +3,10 @@
 
 
 - 🔭 I use Cypress and Selenium to develop robust business testing frameworks.
-- 🌱 Trying to be perfect @Automation.
+- 🌱 Interested in Coding and humans.
 - 💬 Ask me about Automation.
 - 📫 How to reach me: dhimanjyoti62@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 
 
 
