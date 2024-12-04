@@ -2,7 +2,7 @@
 <h3 align="center"> Senior Software Development Engineer in Test</h3>
 
 
-- 🔭 I use Cypress and Selenium to develop a robust business testing framework.
+- 🔭 I use Cypress and Selenium to develop robust business testing frameworks.
 - 🌱 Trying to be perfect @Automation.
 - 💬 Ask me about Automation.
 - 📫 How to reach me: dhimanjyoti62@gmail.com
