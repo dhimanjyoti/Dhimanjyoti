@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋, my name is Dhiman</h1>
-<h3 align="center"> Software Engineer in Test </h3>
+<h3 align="center"> Senior Software Development Engineer in Test</h3>
 
 
-- 🔭 I use Cypress with JavaScript and TypeScript.
+- 🔭 I use Cypress and Selenium to develop a robust business testing framework.
 - 🌱 Trying to be perfect @Automation.
 - 💬 Ask me about Automation.
 - 📫 How to reach me: dhimanjyoti62@gmail.com
